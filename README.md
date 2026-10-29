@@ -1,4 +1,4 @@
 # CC-experiments
 for chandigarh university
-Pranshu JOshi
+Pranshu Joshi
 24BCY70261
